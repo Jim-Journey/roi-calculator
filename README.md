@@ -16,7 +16,7 @@ The **ROI Calculator for Cash Secured Puts** is a simple web application that he
 
 ## Demo
 
-You can access a live demo of the application [here](https://your-username.github.io/roi-calculator/).
+You can access a live demo of the application [here](https://github.com/Jim-Journey/roi-calculator/).
 
 ## Screenshots
 
