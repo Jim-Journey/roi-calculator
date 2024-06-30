@@ -89,5 +89,5 @@ Contributions are what make the open source community such an amazing place to l
 
 ## Contact
 
-Project Link: [https://github.com/your-username/roi-calculator](https://github.com/Jim-Journey/roi-calculator/)
+Project Link: [https://github.com/Jim-Journey/roi-calculator](https://github.com/Jim-Journey/roi-calculator/)
 
